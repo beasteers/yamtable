@@ -1,6 +1,21 @@
 # yamtable |🍠✨|
 
+[![pypi](https://badge.fury.io/py/starstar.svg)](https://pypi.python.org/pypi/starstar/) <!--
+![tests](https://github.com/beasteers/starstar/actions/workflows/ci.yml/badge.svg)
+[![docs](https://readthedocs.org/projects/starstar/badge/?version=latest)](http://starstar.readthedocs.io/?badge=latest) -->
+[![License](https://img.shields.io/pypi/l/starstar.svg)](https://github.com/beasteers/starstar/blob/main/LICENSE.md)
+
+
 A pretty ✨ formatting library meant for CLIs that need to display complex or ambiguously structured data, e.g. data from a REST API.
+
+
+## Install
+
+```bash
+pip install yamtable
+```
+
+## Motivation
 
 The idea is that, sometimes you have data that would look best as YAML, as it is quite good at displaying dictionaries.
 And sometimes you might have a list of dictionaries (e.g. a list of entities with attributes) and displaying that would 
@@ -63,11 +78,7 @@ blah1:
 ```
 
 
-## Install
 
-```bash
-pip install yamtable
-```
 
 ## Usage
 
