@@ -1,9 +1,9 @@
 # yamtable |🍠✨|
 
-[![pypi](https://badge.fury.io/py/starstar.svg)](https://pypi.python.org/pypi/starstar/) <!--
-![tests](https://github.com/beasteers/starstar/actions/workflows/ci.yml/badge.svg)
-[![docs](https://readthedocs.org/projects/starstar/badge/?version=latest)](http://starstar.readthedocs.io/?badge=latest) -->
-[![License](https://img.shields.io/pypi/l/starstar.svg)](https://github.com/beasteers/starstar/blob/main/LICENSE.md)
+[![pypi](https://badge.fury.io/py/yamtable.svg)](https://pypi.python.org/pypi/yamtable/) <!--
+![tests](https://github.com/beasteers/yamtable/actions/workflows/ci.yml/badge.svg)
+[![docs](https://readthedocs.org/projects/yamtable/badge/?version=latest)](http://yamtable.readthedocs.io/?badge=latest) -->
+[![License](https://img.shields.io/pypi/l/yamtable.svg)](https://github.com/beasteers/yamtable/blob/main/LICENSE.md)
 
 
 A pretty ✨ formatting library meant for CLIs that need to display complex or ambiguously structured data, e.g. data from a REST API.
